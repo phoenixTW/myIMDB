@@ -1,0 +1,15 @@
+.search-bar-root {
+  padding: 2px 4px;
+  display: flex;
+  align-items: center;
+  width: 400px;
+}
+
+.search-bar-input {
+  margin-left: 8px;
+  flex: 1px;
+}
+
+.search-bar-icon-button {
+  padding: 10px;
+}
